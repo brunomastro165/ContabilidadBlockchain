@@ -1,0 +1,13 @@
+D:\ProgramasCreados\C#\ProgramaContable\ProgramaContable\bin\Debug\ProgramaContable.exe.config
+D:\ProgramasCreados\C#\ProgramaContable\ProgramaContable\bin\Debug\ProgramaContable.exe
+D:\ProgramasCreados\C#\ProgramaContable\ProgramaContable\bin\Debug\ProgramaContable.pdb
+D:\ProgramasCreados\C#\ProgramaContable\ProgramaContable\obj\Debug\ProgramaContable.csproj.AssemblyReference.cache
+D:\ProgramasCreados\C#\ProgramaContable\ProgramaContable\obj\Debug\ProgramaContable.csproj.SuggestedBindingRedirects.cache
+D:\ProgramasCreados\C#\ProgramaContable\ProgramaContable\obj\Debug\ProgramaContable.Properties.Resources.resources
+D:\ProgramasCreados\C#\ProgramaContable\ProgramaContable\obj\Debug\ProgramaContable.csproj.GenerateResource.cache
+D:\ProgramasCreados\C#\ProgramaContable\ProgramaContable\obj\Debug\ProgramaContable.csproj.CoreCompileInputs.cache
+D:\ProgramasCreados\C#\ProgramaContable\ProgramaContable\obj\Debug\ProgramaContable.exe
+D:\ProgramasCreados\C#\ProgramaContable\ProgramaContable\obj\Debug\ProgramaContable.pdb
+D:\ProgramasCreados\C#\ProgramaContable\ProgramaContable\bin\Debug\Newtonsoft.Json.dll
+D:\ProgramasCreados\C#\ProgramaContable\ProgramaContable\bin\Debug\Newtonsoft.Json.xml
+D:\ProgramasCreados\C#\ProgramaContable\ProgramaContable\obj\Debug\ProgramaContable.csproj.CopyComplete
